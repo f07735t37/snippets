@@ -1,2 +1,2 @@
 # snippets
-Useful code snippets
+Useful code snippets that have helped my learning
